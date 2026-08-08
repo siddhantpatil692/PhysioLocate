@@ -28,9 +28,13 @@ PhysioLocate is my answer to that question. A map-driven platform that lets you 
 **Tech Stack**
 
 Frontend: React, JavaScript
+
 Styling: Tailwind CSS, shadcn/ui
+
 Icons: Lucide React
+
 Routing: React Router
+
 Maps: Leaflet.js
 
 **Status**
