@@ -18,11 +18,15 @@ PhysioLocate is my answer to that question. A map-driven platform that lets you 
 **What It Does**
 
 📍 Locates physiotherapy clinics with pinpoint accuracy
+
 🔍 Filters by distance, insurance coverage, and patient availability
+
 🗺️ Map-driven interface built for speed and simplicity
+
 📊 Proprietary location data verified manually for accuracy
 
 **Tech Stack**
+
 Frontend: React, JavaScript
 Styling: Tailwind CSS, shadcn/ui
 Icons: Lucide React
